@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Guess the Word! (By Kyle)</string>
+    <string name="give_up">Give Up</string>
+    <string name="start">Start</string>
+    <string name="placeholder">*</string>
+    <string name="check">Check</string>
+    <string name="letter">Letter</string>
+    <string name="welcome_msg">Welcome!\nPress START to begin.</string>
+    <string name="incorrect">Keep Trying</string>
+    <string name="winning_msg">You Win!\n It took you %d guesses</string>
+    <string name="give_up_msg">Quitter!\nThe word was %s.\nYou gave up after trying %d letter(s)</string>
+    <string name="begin_msg">And so it begins…</string>
+    <string name="not_letter_error">Invalid entry!\nNot a letter!</string>
+    <string name="whitespace_error">Invalid entry!\nMissing a letter!</string>
+    <string name="multi_letter_error">Invalid entry!\nMore than one letter!</string>
+    <string name="clear"></string>
+</resources>
